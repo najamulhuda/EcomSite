@@ -9,21 +9,31 @@ A responsive fashion e-commerce website built with Bootstrap and custom CSS, fea
 ## 📁 Project Structure
 project-folder/
 │
-├── index.html # Main HTML file
-├── style.css # Custom styles
-├── images/ # All project images
-│ ├── logo.webp
-│ ├── Hero section img1.jpg
-│ ├── Hero section img2.jpg
-│ ├── Hero section img3.jpg
-│ ├── 12.jpg
-│ ├── 13.jpg
-│ ├── 14.jpg
-│ ├── 15.jpg
-│ └── payment logos/
-└── README.md # This file
 
-text
+├── index.html # Main HTML file
+
+├── style.css # Custom styles
+
+├── images/ # All project images
+
+│ ├── logo.webp
+
+│ ├── Hero section img1.jpg
+
+│ ├── Hero section img2.jpg
+
+│ ├── Hero section img3.jpg
+
+│ ├── 12.jpg
+
+│ ├── 13.jpg
+
+│ ├── 14.jpg
+
+│ ├── 15.jpg
+
+│ └── payment logos/
+└── README.md # This file text
 
 ## 🚀 Features
 
@@ -227,9 +237,9 @@ Open a pull request
 📧 Contact
 For questions or feedback, please contact:
 
-[Your Email]
+najamulhuda791@gmail.com
 
-[Your GitHub Profile]
+https://github.com/najamulhuda
 
 Note: This is a frontend-only project. Backend integration would be required for:
 
