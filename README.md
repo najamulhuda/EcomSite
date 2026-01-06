@@ -4,7 +4,7 @@ markdown
 A responsive fashion e-commerce website built with Bootstrap and custom CSS, featuring a modern design with product listings, interactive modals, and a fully responsive layout.
 
 ## 🌐 Live Demo
-[Add your live demo link here]
+https://najamulhuda.github.io/EcomSite/
 
 ## 📁 Project Structure
 project-folder/
