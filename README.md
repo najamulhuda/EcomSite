@@ -125,12 +125,12 @@ project-folder/
 ## 🔧 Installation & Setup
 
 1. **Clone the repository:**
-```bash
-git clone [your-repository-url]
+   
+git clone https://github.com/najamulhuda/EcomSite.git
 Navigate to project folder:
 
 bash
-cd [project-folder]
+cd EcomSite
 Open in browser:
 
 Simply open index.html in any modern browser
@@ -148,7 +148,7 @@ Edit style.css:
 
 css
 .footer-section {
-    background-color: #your-color;
+    background-color: #3E3630;
 }
 Add Products
 Duplicate a card section in index.html and update:
